@@ -11,10 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- In skin cancer test, the dermatologist takes some part of the skin lesion and examines it under the microscope. The current process is manual and takes significant amount of time to arrive at a conclusion of the biopsy test. The main aim is to reduce this time of examination to help patients and doctors. The approach uses Convolutional Neural Network (CNN) to classify nine types of skin cancer from outlier lesions images. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
